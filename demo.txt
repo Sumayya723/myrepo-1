@@ -1,3 +1,19 @@
 hiii this is git first file
 hello.. git.. im excited to know about you more.
 DevOps
+-aws
+-git
+-github
+-github actions
+-git lab
+-linux
+-nginx
+-shell/bash scripting
+-jenkins
+-granfa
+-terraform
+-maven
+-promuthes
+-docker
+-kubernetes
+-ansible
